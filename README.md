@@ -1,4 +1,4 @@
-[![Profile views](https://komarev.com/ghpvc/?username=menand&label=Profile%20views&color=60dae2&style=flat)](https://github.com/menand)
+[![Profile views](https://hits.sh/github.com/menand.svg?label=Profile%20views&color=60dae2&style=flat)](https://github.com/menand)
 
 # Hi, I’m Andrey. Glad to see you here!
 
