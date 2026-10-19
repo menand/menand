@@ -21,4 +21,7 @@
 [<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>](https://vk.com/menand)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>](https://t.me/AndreyMenshov)
 
-![Snake animation](https://raw.githubusercontent.com/menand/menand/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menand/menand/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/menand/menand/output/github-contribution-grid-snake.svg">
+</picture>
