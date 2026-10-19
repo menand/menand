@@ -2,9 +2,9 @@
 
 # Hi, I’m Andrey. Glad to see you here!
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/BrowserNeo/BrowserNeo/refs/heads/master/blob/main/assets/lp-710x510-case-2-illustration.png" alt="QA illustration"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/menand/menand.github.io/main/assets/lp-710x510-case-2-illustration.png" alt="QA illustration"/>
 
-<img src="https://raw.githubusercontent.com/BrowserNeo/BrowserNeo/master/steck/wave.gif" width="30px" alt="wave"/>
+<img src="https://raw.githubusercontent.com/menand/menand.github.io/main/assets/wave.gif" width="30px" alt="wave"/>
 
 ## QA Engineer
 
